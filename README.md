@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @Luiscadt
 - 👀 I’m interested in IA, Python, JavaScript, VueJs and ReactJs
-- 🌱 I’m currently learning IA and ReactJs
