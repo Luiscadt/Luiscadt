@@ -4,7 +4,7 @@ Hi there! I'm Luis, a developer passionate about technology and the endless poss
 
 Ever since I was young, I've been driven by my dream of growing as a professional in the software development industry. Since then, I've dedicated myself to specializing in application development.
 
-On this profile, you'll find some of my projects that I've worked on to improve my skills and knowledge. I love programming in [Python] and I'm always on the lookout for new challenges.
+On this profile, you'll find some of my projects that I've worked on to improve my skills and knowledge. I love programming in Python and I'm always on the lookout for new challenges.
 
 ## Technologies:
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
@@ -28,7 +28,7 @@ And some more...
 Desde pequeño **Luis**, el reflejo de mi sueño de crecer como profesional dentro de la industria del desarrollo de software.
 Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones.
 
-En este perfil encontrarás algunos de mis proyectos, en los que he trabajado para aprender y mejorar mis habilidades. Me encanta programar en [Python] y siempre estoy en busca de nuevos desafíos.
+En este perfil encontrarás algunos de mis proyectos, en los que he trabajado para aprender y mejorar mis habilidades. Me encanta programar en Python y siempre estoy en busca de nuevos desafíos.
 
 
 ## Tecnologías:
